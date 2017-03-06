@@ -1,0 +1,53 @@
+A.a
+------------------------------------------------------
+ The specific Impulse (Isp) for a large Thruster is 882.088
+ Thus, for a group of 6 Large thrusters the total Isp is 5292.53
+ The specific Impulse (Isp) for a medium Thruster is 882.088
+ Thus, for a group of 6 Medium thrusters the total Isp is 5292.53
+ The specific Impulse (Isp) for a small Thruster is 882.088
+ Thus, for a group of 12 Small thrusters the total Isp is 10585.1
+A.b
+------------------------------------------------------
+ The Thruster Coefficient and Throat area for each set is as follows: 
+       Throat Area:      Thruster Coefficient:
+Large :    0.206227		1.83186
+Medium:    0.0266881		1.83186
+Small :    0.00109179	1.83186
+A.c
+------------------------------------------------------
+ The steady state Isp and pulsing Isp for each set is as follows: 
+       Steady State:      Pulsing:
+Large :    820.342		441.044
+Medium:    820.342		441.044
+Small :    820.342		441.044
+A.d
+------------------------------------------------------
+ The estimated thruster mass for each set is as follows: 
+Large :    0.961
+Medium:    0.4726
+Small :    0.40297
+ B.a
+------------------------------------------------------
+ The specific Impulse (Isp) for a large Thruster is 882.088
+ Thus, for a group of 6 Large thrusters the total Isp is 5292.53
+ The specific Impulse (Isp) for a medium Thruster is 882.088
+ Thus, for a group of 6 Medium thrusters the total Isp is 5292.53
+ The specific Impulse (Isp) for a small Thruster is 882.088
+ Thus, for a group of 12 Small thrusters the total Isp is 10585.1
+B.b
+------------------------------------------------------
+ The Thruster Coefficient and Throat area for each set is as follows: 
+       Throat Area:      Thruster Coefficient:
+Large :    0.206227		1.83186
+Medium:    0.0266881		1.83186
+Small :    0.00109179	1.83186
+B.c
+------------------------------------------------------
+ The steady state Isp and pulsing Isp for each set is as follows: 
+       Steady State:      Pulsing:
+Large :    820.342		441.044
+Medium:    820.342		441.044
+Small :    820.342		441.044
+------------------------------------------------------
+ Steady State Requirement Review 
+ Large: 31179 Medium: 31179 Small: 31179
