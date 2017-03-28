@@ -1,0 +1,20 @@
+Introduction: This assignment deals with the design and sizing of an attitude control system
+Part 1: Define the Mission Attitude Control Modes, then define System-Level Requirements for each control Mode.
+Control Mode 1: Launch Mode
+	 During Launch Mode the Spacecraft will have all of the science payloads stored in the respective compartments. This means that there will be no pointing requirements.
+Control Mode 1: Launch Mode
+	 During Launch Mode the Spacecraft will have all of the science payloads stored in the respective compartments. This means that there will be no pointing requirements.
+Control Mode 2: Cruise
+	 During Cruise Mode the Spacecraft will not have all of the science payloads stored in the respective compartments.
+	 For example, the star scanners need to be able to see the surrounding solar landscape. Furthermore, the solar panels will be deployed and need to be angled such that they are perpendicular to the solar rays for as much time as possible. In addition, the high gain antenna will need to be oriented toward earth to maintain communication lines. These requirements naturally lead to a 3-axis-stabilized system.
+Control Mode 3: Oriting Mars
+	 During Mars Orbital Mode the Spacecraft will have all of the science payloads exposed.
+	 In addition to the cruising requirements the spacecraft will also need to have the previously unused payload devices angled in the appropriate direction. Specifically, there are several nadir-pointing components such as the wide and narrow angle cameras. Also there is the spectrometer that must be pointing toward the surface of Mars.
+Part 2: Select the ACS system-type and explain the choice.
+	 The decision to go with the 3-axis-stabilized control system was simple to make. By using the Mission Suitability Matrix provided in the book, it was clear that since many mission-critical objectives could only be met with nadir-pointing science payloads that the decision was between the 3-axis option and the momentum biased configurations. The fact that planetary observance was poor with the momentum biased option meant that although the 3-axis choice was far more expensive, it was the best choice for meeting the mission requirements.
+Part 3: Determine the minimum thrust level of the thrusters for a three-axis system in order to comply with the rotational maneuver time limit in the SRD.
+	 The rotational maneuver time limit is the following...
+		 "It  must  be  possible  to  make  a  180  degree rotational maneuver about any axis in 30 second. The solar arrays shall be pointed to the Sun within 5 degrees maximum array pointing error."
+	 This assumes the thrusters are fired in pair and are at the same thrust level.
+	 The maximum rotational time is 2.0226 which is less than 30 seconds. Therefore each of the possible axis of rotation meet the requirement.
+Part 4: Characterize the environmental torques acting on the orbiter. 
